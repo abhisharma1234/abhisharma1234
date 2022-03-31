@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhishek sharma
 - 👀 I’m interested in programing .
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m currently learning flutter.
+- 💞️ I’m looking to collaborate on flutter projects
 - 📫 How to reach me abhisharma.as45@yahoo.com
 
 <!---
